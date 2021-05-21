@@ -1,2 +1,2 @@
-# hello-world
-This is a repository named hello-world.
+# Find the factors of an integer using python
+
